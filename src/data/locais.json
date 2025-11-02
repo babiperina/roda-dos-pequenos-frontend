@@ -1,0 +1,73 @@
+[
+    {
+      "nome": "Engenhoca Park",
+      "lat": -3.90239,
+      "lng": -38.38935,
+      "descricao": "Parque com atividades aquáticas, trilhas e área verde.",
+      "endereco": "R. Raimundo Coelho, 200 - Centro, Aquiraz - CE, 61700-000",
+      "telefone": "+55 (85) 3361-1010",
+      "categoria": "aquatico",
+      "cor": "#a78bfa"
+    },
+    {
+      "nome": "Ytacarenha Park",
+      "lat": -3.84205,
+      "lng": -38.38963,
+      "descricao": "Parque aquático com piscinas e toboáguas.",
+      "endereco": "Av. Litorânea, 900 - Prainha, Aquiraz - CE, 61700-000",
+      "telefone": "+55 (85) 3257-4880",
+      "categoria": "aquatico",
+      "cor": "#a78bfa"
+    },
+    {
+      "nome": "Ecopoint",
+      "lat": -3.75927,
+      "lng": -38.56187,
+      "descricao": "Parque ecológico com atividades infantis, fazendinha e área verde.",
+      "endereco": "Av. Senador Fernandes Távora, 387 - Jóquei Clube, Fortaleza - CE, 60510-290",
+      "telefone": "+55 (85) 3290-3339",
+      "categoria": "ecologico",
+      "cor": "#a78bfa"
+    },
+    {
+      "nome": "iPark Complexo Turístico",
+      "lat": -3.91597,
+      "lng": -38.71038,
+      "descricao": "Parque de aventuras com tirolesa, caiaque, trilhas e o Museu da Cachaça.",
+      "endereco": "Estr. da Ypioca, s/n, Maranguape - CE, 61950-000",
+      "telefone": "+55 (85) 3341-0407",
+      "categoria": "aventura",
+      "cor": "#a78bfa"
+    },
+    {
+      "nome": "Apoena Ecopark",
+      "lat": -3.96824,
+      "lng": -38.61543,
+      "descricao": "Parque ecológico e espaço de lazer com piscinas, atividades ao ar livre e restaurante.",
+      "endereco": "R. Maj. Crisanto de Almeida, 2170 - Centro, Pacatuba - CE, 61800-000",
+      "telefone": "+55 (85) 3257-2008",
+      "categoria": "ecologico",
+      "cor": "#a78bfa"
+    },
+    {
+      "nome": "Beach Park",
+      "lat": -3.84614,
+      "lng": -38.39083,
+      "descricao": "Maior parque aquático da América Latina, com diversas atrações para toda a família.",
+      "endereco": "R. Porto das Dunas, 2734 - Porto das Dunas, Aquiraz - CE, 61700-000",
+      "telefone": "+55 (85) 4012-3000",
+      "categoria": "aquatico",
+      "cor": "#a78bfa"
+    },
+    {
+      "nome": "Centro Cultural Dragão do Mar",
+      "lat": -3.71859,
+      "lng": -38.54341,
+      "descricao": "Centro cultural com museus, cinemas, planetário e espaços de arte e gastronomia.",
+      "endereco": "R. Dragão do Mar, 81 - Praia de Iracema, Fortaleza - CE, 60060-390",
+      "telefone": "+55 (85) 3488-8600",
+      "categoria": "cultura",
+      "cor": "#a78bfa"
+    }
+  ]
+  
